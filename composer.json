@@ -1,5 +1,5 @@
 {
-    "name": "abbasudo/pulse-users",
+    "name": "dmitry_buzz/pulse-users",
     "description": "Laravel Pulse Card for Users Chart",
     "keywords": [
         "laravel-pulse",
@@ -9,7 +9,7 @@
         "users",
         "laravel-pulse-users"
     ],
-    "homepage": "https://github.com/abbasudo/pulse-users",
+    "homepage": "https://github.com/cyberdmitriy/pulse-users",
     "license": "MIT",
     "authors": [
         {

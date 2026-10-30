@@ -4,11 +4,14 @@
 </p>
 
 
-[![License](http://poser.pugx.org/abbasudo/pulse-users/license)](https://github.com/abbasudo/pulse-users)
-[![Latest Unstable Version](http://poser.pugx.org/abbasudo/pulse-users/v)](https://packagist.org/packages/abbasudo/pulse-users)
-[![PHP Version Require](http://poser.pugx.org/abbasudo/pulse-users/require/php)](https://packagist.org/packages/abbasudo/pulse-users)
+[![License](http://poser.pugx.org/dmitry_buzz/pulse-users/license)](https://github.com/cyberdmitriy/pulse-users)
+[![Latest Unstable Version](http://poser.pugx.org/dmitry_buzz/pulse-users/v)](https://packagist.org/packages/dmitry_buzz/pulse-users)
+[![PHP Version Require](http://poser.pugx.org/dmitry_buzz/pulse-users/require/php)](https://packagist.org/packages/dmitry_buzz/pulse-users)
 
 Pulse Users gives you an Hourly distributed requests chart.
+
+A fork of [abbasudo/pulse-users](https://github.com/abbasudo/pulse-users) by Abbas Mkhzomi, published under its own name to
+support Laravel 13.
 
 ## Installation
 
@@ -17,7 +20,7 @@ Pulse Users gives you an Hourly distributed requests chart.
 
 Install the package via composer by this command:
 ```sh
-composer require abbasudo/pulse-users 
+composer require dmitry_buzz/pulse-users
 ```
 
 ### Add components to the dashboard
@@ -57,7 +60,7 @@ The number of available time zones can be configured in the `config/pulse.php`:
 
 ## License
 
-Pulse Users is Licensed under The MIT License (MIT). Please see [License File](https://github.com/abbasudo/pulse-users/blob/master/LICENSE) for more information.
+Pulse Users is Licensed under The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
 ## Security
 
